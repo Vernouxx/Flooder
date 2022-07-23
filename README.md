@@ -1,1 +1,14 @@
-# Flooder
+***
+
+## Fl00d3r
+
+![enter image description here](https://raw.githubusercontent.com/FatalS3C/Fl00d3r/main/demo.gif)
+***
+[![Generic badge](https://forthebadge.com/images/badges/made-with-python.svg)](https://shields.io/)
+
+*Ferramenta Simples para DoS*
+
+
+***Requisitos:***
+
+[![Generic badge](https://img.shields.io/badge/Linguagem-PYTHON3-skyblue.svg)](https://www.python.org/downloads/)
